@@ -1,13 +1,13 @@
-test.c
+/Users/matt/dev/test-lcov-sci-notation/test.c
 
 <<<<<< network
-# path=test.c
-TN=
-SF=test.c
-FN=1,foo
-FNDA=1e+0,foo
-FNF=1
-FNH=1
+# path=my-coverage.lcov
+TN:
+SF:test.c
+FN:1,foo
+FNDA:1e+0,foo
+FNF:1
+FNH:1
 DA:1,1e+0
 DA:1,1e+0
 end_of_record
